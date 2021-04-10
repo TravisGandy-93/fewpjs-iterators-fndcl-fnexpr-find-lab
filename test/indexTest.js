@@ -1,5 +1,5 @@
 
-describe('record', function () {
+describe('index.js', function () {
   describe('superbowlWin', function () {
     const record = [
       { year: "2018", result: "N/A"},
